@@ -1,0 +1,14 @@
+{
+  "name": "Video 2012 Lab",
+  "description": "Experimental codec-switch diagnostics for Discord 2012. Not a confirmed fix.",
+  "authors": [
+    {
+      "name": "Community experiment"
+    }
+  ],
+  "main": "index.js",
+  "hash": "0f9051f813421fed506b175246c860c329f68aa4ca7dd14645cb43940a1d0c6f",
+  "vendetta": {
+    "icon": "ic_video"
+  }
+}
